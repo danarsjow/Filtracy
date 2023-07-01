@@ -1,1 +1,0 @@
-# Hiedescom 2k22 Elimination Round - Ozon
