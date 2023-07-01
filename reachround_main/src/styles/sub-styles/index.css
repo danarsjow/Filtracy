@@ -123,7 +123,7 @@ main .about-us .section > *
 main .about-us h2 
 {
     font-size: 1.2em;
-    color: var(--alice-blue);
+    color: var(--celestial-blue);
     margin-bottom: .5rem;
 }
 
@@ -154,7 +154,7 @@ main .about-us p
 
 main .data-stats
 {
-    color: var(--alice-blue);
+    color: var(--celestial-blue);
     font-family: "Inter", sans-serif;
 
     /* margin: 4rem 0; */
@@ -196,7 +196,7 @@ main .data-stats
 
 .data-stats .title 
 {
-    color: var(--alice-blue);
+    color: var(--celestial-blue);
 }
 
 @media screen and (min-width: 768px)
