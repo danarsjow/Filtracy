@@ -181,7 +181,7 @@ main
     inset: 0;
     z-index: 99999;
     pointer-events: none;
-    background: var(--green);
+    background: var(--celestial-blue);
     
     display: -webkit-box;
     
