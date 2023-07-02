@@ -236,7 +236,7 @@ header
         display: inline-block;
         font-family: "Montserrat", sans-serif;
         font-size: 1em;
-        color: var(--green);
+        color: var(--black);
 
         -webkit-transition: .3s;
 
