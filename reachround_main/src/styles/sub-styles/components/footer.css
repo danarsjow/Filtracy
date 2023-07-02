@@ -2,7 +2,7 @@ footer
 {
     min-height: 100px;
     width: 100%;
-    background-color: var(--dark-green);
+    background-color: var(--black);
 
     color: var(--white);
     font-family: "Inter", sans-serif;
@@ -73,12 +73,12 @@ footer .top a, footer .top .share-us li
 
 footer .top a:hover 
 {
-    color: var(--lighter-green);
+    color: var(--white);
 }
 
 footer .top .share-us li:hover 
 {
-    background-color: var(--lighter-green);
+    background-color: var(--white);
 }
 
 footer .top .logo, footer .top h2, footer .top-container h2
