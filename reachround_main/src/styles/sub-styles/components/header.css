@@ -84,12 +84,12 @@ header
 .ozon-logo
 {
     font-size: 1.5em;
-    color: var(--black);
+    color: var(--green);
 }
 
 .ozon-logo a
 {
-    color: var(--green);
+    color: var(--black);
 }
 
 .nav-toggle:hover 
