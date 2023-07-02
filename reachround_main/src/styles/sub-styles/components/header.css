@@ -4,7 +4,7 @@ header
 {
     height: 80px;
     width: 100%;
-    border-bottom: 1px solid var(--green);
+    border-bottom: 1px solid var(--celestial-blue);
     position: fixed;
     z-index: 10;
     background-color: var(--white);
@@ -78,13 +78,13 @@ header
 
 .logo div.logo-image.scrolled 
 {
-    background: url(../../../../assets/illustration/logo.svg);
+    background: url(../../../../assets/illustration/logo2.svg);
 }
 
 .ozon-logo
 {
     font-size: 1.5em;
-    color: var(--green);
+    color: var(--black);
 }
 
 .ozon-logo a
