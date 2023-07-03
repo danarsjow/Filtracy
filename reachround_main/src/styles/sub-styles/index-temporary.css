@@ -111,7 +111,7 @@ main.temporary
     /* max-width: 768px; */
 
     padding-top: 3rem !important;
-    color: var(--darker-green);
+    color: var(--prussian-blue);
 
 }
 
@@ -267,7 +267,7 @@ main.temporary .sign-more a:hover
 {
     font-size: 1em;
     font-weight: 700;
-    color: var(--dark-green);
+    color: var(--prussian-blue);
 
     margin-bottom: .1rem;
 }
@@ -276,7 +276,7 @@ main.temporary .sign-more a:hover
 {
     font-size: .9em;
     font-weight: 700;
-    color: var(--lighter-green);
+    color: var(--celestial-blue);
 
 }
 
