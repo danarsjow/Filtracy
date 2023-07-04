@@ -102,7 +102,7 @@ header
     width: 36px;
     height: 4px;
     border-radius: 2px;
-    background-color: var(--green);
+    background-color: var(--black);
 
     -webkit-transition: .5s;
 
