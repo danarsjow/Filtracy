@@ -153,7 +153,7 @@ header
         -ms-flex-align: center;
             align-items: center;
 
-    background: var(--gray);
+    background: var(--celestial-blue);
 }
 
 .nav-mobile.opened 
