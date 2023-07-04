@@ -81,6 +81,11 @@
     gap: .25rem;
 }
 
+.blog-container .detail-stats centered-readtime
+    {
+        text-align: center;
+    }
+
 .blog-container .detail-stats * 
 {
     color: var(--dark-gray);
@@ -371,4 +376,5 @@
     {
         font-size: 1.1em;
     }
+    
 }
