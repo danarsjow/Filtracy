@@ -1,7 +1,7 @@
 .edpage-title 
 {
     font-size: 1.4em;
-    color: var(--dark-green);
+    color: var(--prussian-blue);
 
     font-family: "Inter", sans-serif;
 
@@ -17,7 +17,7 @@
 .edpage-container h2 
 {
     font-size: 1.2em;
-    color: var(--light-green);
+    color: var(--celestial-blue);
 }
 
 .edpage-container p 
@@ -29,7 +29,7 @@
 .edpage-container p a 
 {
     font-weight: 700;
-    color: var(--green);
+    color: var(--celestial-blue);
 
     -webkit-transition: .3s;
 
@@ -40,7 +40,7 @@
 
 .edpage-container p a:hover 
 {
-    color: var(--light-green);
+    color: var(--celestial-blue);
 }
 
 /* ---- */
