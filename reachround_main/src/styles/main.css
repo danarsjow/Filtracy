@@ -111,8 +111,8 @@ main
 .primary-btn:hover 
 {
     background-color: var(--white);
-    color: var(--celestial-blue);
-    border-color: var(--celestial-blue);
+    color: var(--orange);
+    border-color: var(--orange);
 }
 
 .secondary-btn 
@@ -123,7 +123,7 @@ main
     font-family: "Inter", sans-serif;
     font-size: .9em;
     font-weight: 600;
-    color: var(--celestial-blue);
+    color: var(--orange);
 
     display: -webkit-box;
 
@@ -138,7 +138,7 @@ main
             align-items: center;
 
     padding: 10px 20px;
-    border: 1px solid var(--celestial-blue);
+    border: 1px solid var(--orange);
     border-radius: 4px;
 
     -webkit-transition: .3s;
@@ -182,7 +182,7 @@ main
     inset: 0;
     z-index: 99999;
     pointer-events: none;
-    background: var(--celestial-blue);
+    background: var(--orange);
     
     display: -webkit-box;
     
