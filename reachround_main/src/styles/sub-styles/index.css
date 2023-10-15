@@ -18,7 +18,7 @@ header.header.header-main.transparent *
 
 header.header.header-main.transparent .nav-toggle .bar 
 {
-    background: var(--white);
+    background: var(--orange);
 }
 
 header.header.header-main.transparent a.current-page::after,
