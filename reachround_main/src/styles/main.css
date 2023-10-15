@@ -299,7 +299,7 @@ header, main, footer, #lightbox-container, .image-background, .about-us, .data-d
 .page-location .location 
 {
     font-size: .8em;
-    color: var(--black);
+    color: var(--orange);
 }
 
 .page-location .location:hover 
