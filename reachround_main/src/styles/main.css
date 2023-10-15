@@ -100,7 +100,7 @@ main
     border: none;
     border: 1px solid var(--celestial-blue);
     border-radius: 4px;
-    color: var(--white);
+    color: var(--orange);
     cursor: pointer;
     -webkit-transition: .3s;
     -o-transition: .3s;
