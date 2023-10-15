@@ -96,9 +96,9 @@ main
     font-size: .9em;
     
     padding: .7rem 0;
-    background: var(--celestial-blue);
+    background: var(--white);
     border: none;
-    border: 1px solid var(--celestial-blue);
+    border: 1px solid var(--white);
     border-radius: 4px;
     color: var(--orange);
     cursor: pointer;
