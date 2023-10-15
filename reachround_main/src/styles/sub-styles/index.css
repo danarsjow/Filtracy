@@ -142,7 +142,7 @@ main .about-us p
 
 .data-detail > p 
 {
-    color: var(--orange);
+    color: var(--black);
     font-size: 1.2em;
     text-align: left;
 }
