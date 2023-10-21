@@ -45,7 +45,7 @@
     }
     50%
     {
-        background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0,0,0,.5)), to(rgba(0,0,0,.5))), url(../../../assets/pictures/blog-pics/fg2.jpg);
+        background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0,0,0,.5)), to(rgba(0,0,0,.5))), url(../../../assets/pictures/blog-pics/slide1.jpg);
         background-image: linear-gradient(0deg, rgba(0,0,0,.5), rgba(0,0,0,.5)), url(../../../assets/pictures/blog-pics/slide2.jpg);
     }
     100%
@@ -65,7 +65,7 @@
     50%
     {
         background-image: -o-linear-gradient(bottom, rgba(0,0,0,.5), rgba(0,0,0,.5)), url(../../../assets/pictures/blog-pics/9.jpg);
-        background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0,0,0,.5)), to(rgba(0,0,0,.5))), url(../../../assets/pictures/blog-pics/fg2.jpg);
+        background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0,0,0,.5)), to(rgba(0,0,0,.5))), url(../../../assets/pictures/blog-pics/slide1.jpg);
         background-image: linear-gradient(0deg, rgba(0,0,0,.5), rgba(0,0,0,.5)), url(../../../assets/pictures/blog-pics/slide2.jpg);
     }
     100%
